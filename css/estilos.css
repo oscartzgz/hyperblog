@@ -33,4 +33,22 @@ body {
 
 #container h1{
     font-size: 20px;
+    display: inline-block;
+}
+
+#logo {
+    display: inline-block;
+    background-image: url("../imagenes/dragon.png");
+    height: 50px;
+    width: 100px;
+    background-position: center;
+    background-size: cover;
+}
+
+#footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: .5em;
+    margin-top: 3em;
 }
